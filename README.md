@@ -1,7 +1,7 @@
 ## Hey there! 🖐
 
 I'm Andrés, a Frontend/Fullstack in React focused on building clean, scalable interfaces.  
-  Based in México.
+<br>Based in México.
 
 I build and design whatever I like and can imagine.
 
@@ -14,7 +14,7 @@ One thing is for sure, if an idea pops into my head, chances are I'll build it.
 * Tools: Git, Figma
 
 In the past few years, I’ve built internal tools, dashboards, and web applications to automate 
-  processes and improve the user experience.
+<br>processes and improve the user experience.
 
 🧠 What I'm currently working on
   * Improving my Frontend skills
