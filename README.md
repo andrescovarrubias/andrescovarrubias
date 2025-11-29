@@ -1,10 +1,8 @@
 ## Hey there! 🖐
 
-I'm Andrés, a Frontend/Fullstack in React focused on building clean, scalable interfaces.
-<br>Based in México.
+I'm Andrés, a Frontend/Fullstack developer focused on building clean, scalable interfaces, based in México.
 
-I build and design whatever I like and can imagine. One thing is for sure, if an idea pops
-<br>into my head, chances are I'll build it.
+I build and design whatever I like and can imagine. One thing is for sure, if an idea pops into my head, chances are I'll build it.
 
 🧩 Tech Stack
 * Frontend: React, TypeScript, CSS
