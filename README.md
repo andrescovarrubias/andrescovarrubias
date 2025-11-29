@@ -1,6 +1,6 @@
 ## Hey there! 🖐
 
-I'm Andrés, a Frontend/Fullstack in React focused on building clean, scalable interfaces.  
+I'm Andrés, a Frontend/Fullstack in React focused on building clean, scalable interfaces.
 <br>Based in México.
 
 I build and design whatever I like and can imagine.
